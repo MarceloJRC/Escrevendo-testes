@@ -1,2 +1,2 @@
 # Escrevendo-testes
-Parte 1
+Repositório criado para praticar testes automatizados utilizando Chai e Mocha.
